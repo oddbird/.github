@@ -15,10 +15,9 @@ _The commit messages say what you did; this should explain why and/or how._
 
 
 ## Steps to test/reproduce
-_Please explain how to best reproduce the issue and/or test the changes locally and the pages/URLs/views/states in which to review_
+_Please explain how to best reproduce the issue and/or test the changes locally (including the pages/URLs/views/states to review)._
 
 
 
 ## Show me
 _Provide screenshots/animated gifs/videos if necessary._
-
