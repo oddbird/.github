@@ -1,23 +1,19 @@
-## Cute animal pic
-_Because everyone likes pictures of [animals](https://unsplash.com/t/animals)._
+![](https://source.unsplash.com/featured/?cute,animal&CHANGE_ME)
+<!-- Swap `CHANGE_ME` for a random string to get a different image -->
 
 
-
-## Link to Trello card (if applicable)
-_If this PR relates to a Trello card, don't forget to reference this PR on the card as well._
-
-
-
+<!--
 ## Description
-_The commit messages say what you did; this should explain why and/or how._
-- [ ] Description is in Trello card
-
+Uncomment if you want to provide a custom description.
+-->
 
 
 ## Steps to test/reproduce
 _Please explain how to best reproduce the issue and/or test the changes locally (including the pages/URLs/views/states to review)._
 
 
-
 ## Show me
 _Provide screenshots/animated gifs/videos if necessary._
+
+
+# REMEMBER: Attach this PR to the Trello card
