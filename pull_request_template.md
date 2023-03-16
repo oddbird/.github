@@ -14,6 +14,3 @@ _Please explain how to best reproduce the issue and/or test the changes locally 
 
 ## Show me
 _Provide screenshots/animated gifs/videos if necessary._
-
-
-# REMEMBER: Attach this PR to the Trello card
