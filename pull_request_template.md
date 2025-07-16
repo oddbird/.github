@@ -1,5 +1,4 @@
-![](https://source.unsplash.com/featured/?cute,animal&CHANGE_ME)
-<!-- Swap `CHANGE_ME` for a random string to get a different image -->
+![](https://picsum.photos/600/400)
 
 
 <!--
